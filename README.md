@@ -27,5 +27,4 @@ pip install pandas numpy matplotlib seaborn tensorflow keras
 
 1. **Prepare the Dataset**: Download the dataset from Kaggle and place it in the same directory as the notebook.
 2. **Run the Notebook**: Open and run the Breast_Cancer_Classification_with_CNN.ipynb notebook to preprocess the data, build the CNN model, train it, and evaluate its performance.
-
-Model Evaluation: Evaluates the model on the test data and visualizes performance metrics.
+3.** Model Evaluation**: Evaluates the model on the test data and visualizes performance metrics.
