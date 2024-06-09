@@ -13,11 +13,11 @@ The dataset used for this project contains histopathological images of breast ca
 Installation
 To run the notebook, you need to have Python installed along with the following libraries:
 
-pandas
-numpy
-matplotlib
-seaborn
-tensorflow
+pandas, 
+numpy, 
+matplotlib, 
+seaborn, 
+tensorflow, 
 keras
 
 You can install the required libraries using pip:
