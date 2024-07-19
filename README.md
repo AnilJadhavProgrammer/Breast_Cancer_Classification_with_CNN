@@ -1,4 +1,4 @@
-**Breast Cancer Classification Using CNN **
+**Breast Cancer Classification Using CNN**
 
 **Overview**
 
